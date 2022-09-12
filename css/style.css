@@ -1,0 +1,84 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #2b2922;
+  color: #999893;
+  font-family: "Roboto";
+}
+.container {
+  height: 200px;
+}
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+.logo {
+  display: inline-block;
+  height: 40px;
+  margin-left: 155px;
+  margin-top: 35px;
+}
+.list {
+  font-size: 21px;
+  list-style: none;
+  text-align: right;
+  margin-right: 260px;
+  margin-top: -35px; 
+}
+.list-item {
+  margin-right: 20px;
+  color: #999893;
+  letter-spacing: 1px;
+  display: inline-block;
+  text-align: center;
+}
+button {
+  float: right;
+  margin-top: -280px;
+  margin-right: 55px;
+  padding: 13px 25px;
+  font-size: 20px;
+  background-color: transparent;
+  border: 2px solid #766b2f;
+  color: #766b2f;
+  border-radius: 7px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.list-item:hover {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 500;
+}
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
+.bg {
+  height: 380px;
+  position: absolute;
+  top: 360px;
+  width: 100%;
+}
+
+.h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 30px;
+  width: 700px;
+  color: #f1f0ef;
+  margin-left: 155px;
+  margin-top: 100px;
+}
+
+.desc {
+  width: 460px;
+  float: right;
+  margin-top: -120px;
+  margin-right: 165px;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: 1px;
+}
