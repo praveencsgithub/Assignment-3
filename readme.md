@@ -13,6 +13,6 @@
 
 # Time taken to finish this project is 3 hours.
 
-[Live link for Project-3]()
+[Live link for Project-3](https://voluble-belekoy-d9ac06.netlify.app/)
 
 
